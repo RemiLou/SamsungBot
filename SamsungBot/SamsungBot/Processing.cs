@@ -7,7 +7,9 @@ namespace SamsungBot
     public class Processing
     {
         public IMotion _motion;
-        int[,] _tableau = new int[66,66];
+        private int[,] _tableau = new int[66, 66];
+        private Position localPosition = new Position() { x = 2, y = 2 };
+        private int angle = 90;
 
         public Processing(IMotion motion)
         {
@@ -18,7 +20,12 @@ namespace SamsungBot
         {
             while (IsExplored(_tableau))
             {
+                var obstacle = _motion.Move(1);
 
+                if (!obstacle)
+                {
+                    if (angle)
+                }
             }
         }
 

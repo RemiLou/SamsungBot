@@ -19,7 +19,6 @@ namespace UnitTestProject1
         [TestMethod]
         public void Move1()
         {
-            int[,] expectedTab = { { -1, -1, -1 }, { -1, 1, -1}, { -1, -1, -1 } };
             _processing.Scan();
         }
     }
