@@ -1,0 +1,13 @@
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.exe
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.deps.json
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.runtimeconfig.json
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.runtimeconfig.dev.json
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.dll
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\bin\Debug\netcoreapp3.1\SamsungBot.pdb
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.csprojAssemblyReference.cache
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.AssemblyInfoInputs.cache
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.AssemblyInfo.cs
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.csproj.CoreCompileInputs.cache
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.dll
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.pdb
+C:\Users\rems_\OneDrive\Bureau\TDD\SamsungBot\SamsungBot\SamsungBot\obj\Debug\netcoreapp3.1\SamsungBot.genruntimeconfig.cache
