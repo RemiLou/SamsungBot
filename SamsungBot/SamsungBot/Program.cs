@@ -6,8 +6,9 @@ namespace SamsungBot
     {
         static void Main(string[] args)
         {
-            int[,] tableau = new int[66, 66];
-            Console.WriteLine();
+            int[,] tableau = new int[66, 67];
+
+            Console.WriteLine(tableau.GetLength(1));
         }
     }
 }

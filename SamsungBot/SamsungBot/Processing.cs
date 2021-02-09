@@ -7,7 +7,7 @@ namespace SamsungBot
     public class Processing
     {
         public IMotion _motion;
-        int[,] tableau = new int[66,66];
+        int[,] _tableau = new int[66,66];
 
         public Processing(IMotion motion)
         {
@@ -16,9 +16,22 @@ namespace SamsungBot
 
         public void Scan()
         {
-            
-            _motion.Move(1);
-            _motion.Rotate(45);
+            while (IsExplored(_tableau))
+            {
+
+            }
+        }
+
+        private bool IsExplored(int[,] tab)
+        {
+            bool explored = true;
+
+            for (int i = 0; i < tab.GetLength(0); i++)
+                for(int j = 0; j < tab.GetLength(1); j++)
+                    if (tab[i, j] == 0)
+                        explored = false;
+
+            return explored;
         }
     }
 }
