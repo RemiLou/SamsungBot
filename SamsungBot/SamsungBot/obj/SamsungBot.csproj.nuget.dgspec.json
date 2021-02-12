@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rems_\\OneDrive\\Bureau\\TDD\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj": {}
+    "D:\\Documents\\Github\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rems_\\OneDrive\\Bureau\\TDD\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj": {
+    "D:\\Documents\\Github\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rems_\\OneDrive\\Bureau\\TDD\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj",
+        "projectUniqueName": "D:\\Documents\\Github\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj",
         "projectName": "SamsungBot",
-        "projectPath": "C:\\Users\\rems_\\OneDrive\\Bureau\\TDD\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj",
-        "packagesPath": "C:\\Users\\rems_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rems_\\OneDrive\\Bureau\\TDD\\SamsungBot\\SamsungBot\\SamsungBot\\obj\\",
+        "projectPath": "D:\\Documents\\Github\\SamsungBot\\SamsungBot\\SamsungBot\\SamsungBot.csproj",
+        "packagesPath": "C:\\Users\\Flo\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Github\\SamsungBot\\SamsungBot\\SamsungBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\rems_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Flo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

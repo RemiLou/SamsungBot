@@ -1,6 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SamsungBot;
 using System;
+using Moq;
 
 namespace UnitTestProject1
 {

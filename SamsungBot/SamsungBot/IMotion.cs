@@ -6,7 +6,9 @@ namespace SamsungBot
 {
     public interface IMotion
     {
+
         bool Move(int distance);
         void Rotate(int angle);
+        int GetAngle();
     }
 }
